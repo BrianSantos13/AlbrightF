@@ -1,5 +1,6 @@
 # AlbrightF
-<head> Albright F </head>
-<body> Just a Test </body>
-num1 = float(input("30: "))
-num2 = float(input("30: "))
+num1 = float(input("365"))
+num2 = float(input("12"))
+perador = input(" (/)")
+if operador == "+":
+    resultado = num1 + num2
